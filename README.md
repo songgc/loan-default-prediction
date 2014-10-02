@@ -3,7 +3,7 @@ loan-default-prediction
 
 Description
 -----------
-The code was used for [Loan Default Prediction at Kaggle](https://www.kaggle.com/c/loan-default-prediction)
+The code was written for [Loan Default Prediction Competition at Kaggle](https://www.kaggle.com/c/loan-default-prediction) and got the prize. 
 
 Dependencies and requirements
 -----------------------------
